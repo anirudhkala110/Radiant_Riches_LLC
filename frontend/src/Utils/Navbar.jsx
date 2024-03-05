@@ -6,7 +6,7 @@ const Navbar = () => {
             <nav class="border-gray-200 dark:bg-gray-900" style={{ background: '#212731' }}>
                 <div class="max-w-screen-xl flex flex-wrap items-center justify-center mx-auto p-4">
                     <div className='flex justify-between items-center' >
-                        <a href="https://flowbite.com/" class="flex items-center px-2 mx-5 hide500 space-x-3 ">
+                        <a href="https://flowbite.com/" class="flex items-center px-2 mx-5 hide500 hide650 space-x-3 ">
                             <img src="https://flowbite.com/docs/images/logo.svg" class="h-8" alt="Flowbite Logo" />
                             <span class="self-center text-2xl font-semibold whitespace-nowrap text-white">Logo & Name</span>
                         </a>
