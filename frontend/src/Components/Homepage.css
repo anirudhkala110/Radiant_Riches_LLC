@@ -11,7 +11,7 @@
 }
     .numberShown {
         color: white;
-    background: repeating-linear-gradient(45deg, black, #717171);
+    background: repeating-linear-gradient(45deg, #0000004d, #717171);
     }
 @media only screen and (max-width:729px) {
     .displayForLowerResolution729 {
@@ -55,7 +55,7 @@
     .numberShown {
         margin-left: 2px;
         color: white;
-    background: repeating-linear-gradient(45deg, black, #717171);
+    background: repeating-linear-gradient(45deg, #0000004d, #717171);
     }
 
     .infoPart {
