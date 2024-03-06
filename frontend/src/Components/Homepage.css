@@ -9,7 +9,10 @@
         justify-content: start;
     }
 }
-
+    .numberShown {
+        color: white;
+    background: repeating-linear-gradient(45deg, black, #717171);
+    }
 @media only screen and (max-width:729px) {
     .displayForLowerResolution729 {
         display: flex !important;
