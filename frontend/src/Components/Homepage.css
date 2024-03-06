@@ -51,6 +51,8 @@
 
     .numberShown {
         margin-left: 2px;
+        color: white;
+    background: repeating-linear-gradient(45deg, black, #717171);
     }
 
     .infoPart {
